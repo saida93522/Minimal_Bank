@@ -14,8 +14,6 @@ const operContainer = document.querySelector('.operations__tab-container') //div
 const operTab = document.querySelectorAll('.operations__tab') //button
 const operContent = document.querySelectorAll('.operations__content')
 
-
-
 ///////////////////////////////////////
 // Modal window
 
